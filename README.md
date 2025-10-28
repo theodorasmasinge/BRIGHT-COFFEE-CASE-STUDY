@@ -1,13 +1,18 @@
-# BRIGHT-COFFEE-CASE-STUDY
-# THIS RESPIROTY SHOWS THE ANALYSIS OF BRIGHT COFFEE SHOP 
-IN THE COFFEE SHOP THEY ARE 3 LOCATONS 
-TIMES OF THE DAY WHICH THE COFFEE SHOP OPERATES 
-- MORNING , AFTERNOON , EVENING AND NIGHT
-  # RECOMMENDATION TO HELP THE COFFEE SHOP
-  DURING THE WEEKENDS THEY SHOULD TRY IMPLEMENT DISCOUNTS BECAUSE DURING WEEKENDS THE SALES ARE DOWN
-  THEY CAN TRY RUNNING REGULAR TESTS TO KEEP THE STANDARDS HIGH . AND THEY COULD TRY ADDING SIGNATURE DRINKS
-  # TOOLS AND TECHNOLOGIES USED
-  - SNOWFLAKE
-  - CANVA
-  - MICROSOFT EXCEL
-  - MIRO
+# Bright-Coffee-Case-Study
+# Introduction
+This repository shows the analysis of bright coffee shop 
+In the coffee shop they are 3 location 
+Time of the day in which the coffee shop operates 
+- Morning
+- Afternoon
+- Evening
+- Night 
+  # Recommendations to help the coffee shop
+  - During weekends they should implement discounts because during weekends the sales are down
+  -  They can try running regular tests to keep standards high. And they could try adding signature drinks
+# Tools and technologies used
+- Snowflake
+- Microsoft excel
+- Canva
+- Miro
+ 
