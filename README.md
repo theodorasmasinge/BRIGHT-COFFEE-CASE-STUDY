@@ -1,7 +1,7 @@
 # Bright-Coffee-Case-Study
 # Introduction
-This repository shows the analysis of bright coffee shop 
-In the coffee shop they are 3 location 
+This repository shows the analysis of bright coffee shop. A new ceo was appointed and asked for an analysis to be done to see where the coffee shop is lacking and try to make some improvements.
+# In the coffee shop they are 3 location 
 Time of the day in which the coffee shop operates 
 - Morning
 - Afternoon
